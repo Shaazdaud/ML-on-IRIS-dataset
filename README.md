@@ -47,3 +47,5 @@ This project provides a comparison of the six algorithms' performance on the Iri
 * Implement these models on a larger and more complex dataset.
 
 This project serves as a foundation for understanding and comparing various classification algorithms using the well-known Iris flower dataset.
+
+Authour Shaaz Daud
